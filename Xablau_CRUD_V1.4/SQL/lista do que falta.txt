@@ -1,0 +1,7 @@
+*Quarta:*
+
+Implementar os prints das telas AllNotas e NotaFinal; P1
+
+Criar a apresentação; P3
+
+fazer um ensaio com o grupo. P3
